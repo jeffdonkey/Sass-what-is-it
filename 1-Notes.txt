@@ -1,0 +1,17 @@
+WHAT IS SASS?
+
+Sass is a pre-compiler for CSS.
+Sass is also known as SCSS (Sassy Cascading Style Sheets).
+Sass is not the only pre-compiler for CSS.  There are others!
+
+WHY IS SASS?
+
+Someone wanted to write functions for CSS.  Functions are not a part of CSS.
+So someone came up with Sassy.
+
+Also, it is reportedly "modular"; make CSS easier to read and organize.
+
+HOW DOES SASS HELP?
+
+One advantage of using Sass is that you can minimize the code that
+has to be interpeted by the browser.

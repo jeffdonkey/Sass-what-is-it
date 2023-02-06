@@ -1,0 +1,8 @@
+In Sass you can set variables that can be reused within
+the code.
+
+Sass variable start with "$"
+
+Example:
+    $gray: #f3f3f3;
+

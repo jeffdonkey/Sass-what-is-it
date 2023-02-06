@@ -1,0 +1,11 @@
+You can use Sass/SCSS from a VSCode extension or from npm.
+
+NPM INSTRUCTIONS:
+    1. go to terminal of project
+    2. import Sass: npm i -g sass
+    3. in your project create a folder called: CSS
+    4. type this command in terminal to create needed files within the folder CSS:
+        sass scss/style.scss css/style.css
+    5. this creates two files:
+        style.css: the post-compiled css to be used by the application
+        style.css.map: this links the css-like configurations from scss to css
